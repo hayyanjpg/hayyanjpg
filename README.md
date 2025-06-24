@@ -1,35 +1,39 @@
 # Hi there, I'm Hayyan Nashrulloh! 👋
 
-I'm a **Bachelor's student in Informatics Engineering** at **Telkom University Purwokerto**, driven by a strong passion for technological innovation. Currently, I'm gaining practical experience through an **internship at Komunikasi Digital (Komdigi) Brebes Regency**.
+I'm a passionate **Bachelor's student in Informatics Engineering** at **Telkom University Purwokerto**. Currently, I'm proud to be contributing as an **intern at Komunikasi Digital (Komdigi) Brebes Regency**.
 
-Hailing from **Tegal City**, I have hands-on experience in **website development**, **mobile app development** (especially with **Flutter**), and the **Laravel** framework. Furthermore, I'm actively exploring and applying concepts in **Machine Learning**.
+Hailing from **Tegal City, Indonesia**, I bring solid experience in **website development**, **mobile app development** (especially with **Flutter**), and a strong grasp of the **Laravel** framework. Beyond that, I'm actively exploring and applying **Machine Learning** concepts to solve real-world problems.
 
 ---
 
-### 💻 My Technical Skills
+### 💡 My Technical Toolkit
 
-Here are the programming languages and technologies I'm proficient in and use in my projects:
+Here's a rundown of the programming languages and technologies that form my core strengths:
 
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,python,javascript,flutter,laravel,html,css)](https://skillicons.dev)
 
 ---
 
-### ✨ My Key Projects and Interests
+### ✨ Projects & Core Interests
 
-I have a keen interest and experience in:
+My focus areas include:
 
-* **Web Application Development:** Building responsive, efficient, and user-friendly web applications.
-* **Mobile Application Development (Flutter):** Designing and developing feature-rich and high-performing cross-platform mobile applications.
-* **Machine Learning:** Developing and implementing Machine Learning models for data analysis and complex problem-solving.
+* **Web Application Development:** Crafting responsive, efficient, and user-friendly web solutions that deliver optimal experiences.
+* **Mobile Application Development (Flutter):** Building feature-rich, visually appealing, and high-performing cross-platform mobile applications.
+* **Machine Learning:** Translating data into intelligent insights and solutions through the development and implementation of ML models.
 
 ---
 
 ### 🚀 What I'm Currently Working On
 
-My current focus is on contributing at Komdigi Brebes Regency, continuously learning, and seeking opportunities to collaborate on challenging software development and machine learning projects.
+Currently, I'm actively involved in projects at Komdigi Brebes Regency, continuously learning, and innovating. I'm always eager to collaborate on challenging software development and machine learning initiatives.
 
 ---
 
 ### 📫 Let's Connect!
 
-I'm always open to discussing technology, collaboration opportunities, or simply sharing ideas. Feel free to reach out!
+I'd love to chat about technology, share ideas, or explore potential collaborations. Feel free to reach out!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hayyannashrulloh)
+
+---
