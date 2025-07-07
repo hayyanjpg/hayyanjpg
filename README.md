@@ -1,4 +1,4 @@
-# Hi there, I'm Hayyan Nashrulloh! 👋
+# Hi there, I'm Hayyan ! 👋
 
 I'm a passionate **Bachelor's student in Informatics Engineering** at **Telkom University Purwokerto**. Currently, I'm proud to be contributing as an **intern at Komunikasi Digital (Komdigi) Brebes Regency**.
 
