@@ -10,7 +10,7 @@ Hailing from **Tegal City, Indonesia**, I bring solid experience in **website de
 
 Here's a rundown of the programming languages and technologies that form my core strengths:
 
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,python,javascript,flutter,laravel,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,python,typescript,javascript,flutter,laravel,html,css)](https://skillicons.dev)
 
 ---
 
