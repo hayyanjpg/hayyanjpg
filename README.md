@@ -1,4 +1,4 @@
-# Hi there, I'm Hayyan ! 👋
+# Hi there, I'm Hayyan ! 
 
 I'm a passionate **Bachelor's student in Informatics Engineering** at **Telkom University Purwokerto**. Currently, I'm proud to be contributing as an **intern at Komunikasi Digital (Komdigi) Brebes Regency**.
 
@@ -6,7 +6,7 @@ Hailing from **Tegal City, Indonesia**, I bring solid experience in **website de
 
 ---
 
-### 💡 My Technical Toolkit
+### My Technical Toolkit
 
 Here's a rundown of the programming languages and technologies that form my core strengths:
 
@@ -14,7 +14,7 @@ Here's a rundown of the programming languages and technologies that form my core
 
 ---
 
-### ✨ Projects & Core Interests
+### Projects & Core Interests
 
 My focus areas include:
 
@@ -24,13 +24,13 @@ My focus areas include:
 
 ---
 
-### 🚀 What I'm Currently Working On
+### What I'm Currently Working On
 
 Currently, I'm actively involved in projects at Komdigi Brebes Regency, continuously learning, and innovating. I'm always eager to collaborate on challenging software development and machine learning initiatives.
 
 ---
 
-### 📫 Let's Connect!
+### Let's Connect!
 
 I'd love to chat about technology, share ideas, or explore potential collaborations. Feel free to reach out!
 
