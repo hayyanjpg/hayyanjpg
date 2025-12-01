@@ -1,39 +1,64 @@
-# Hi there, I'm Hayyan ! 
+# Hi there, I'm Hayyan! 👋
 
-I'm a passionate **Bachelor's student in Informatics Engineering** at **Telkom University Purwokerto**. Currently, I'm proud to be contributing as an **intern at Komunikasi Digital (Komdigi) Brebes Regency**.
+I am a final-year **Informatics Engineering** student at **Telkom University Purwokerto**, specializing in **AI Engineering** and **Full-Stack Development**.
 
-Hailing from **Tegal City, Indonesia**, I bring solid experience in **website development**, **mobile app development** (especially with **Flutter**), and a strong grasp of the **Laravel** framework. Beyond that, I'm actively exploring and applying **Machine Learning** concepts to solve real-world problems.
+I believe in working smart. My approach combines fundamental software engineering principles with **AI-Assisted Development** workflows. I focus on bridging the gap between complex AI models and real-world utility—moving from concept to deployment efficiently.
+
+
+### Featured Projects
+
+Here are some of the production-ready projects I have built and deployed:
+
+| Project | Tech Stack | Key Highlights |
+| :--- | :--- | :--- |
+| **[Tanya UU Naker (RAG AI)](https://tanya-uu-naker.vercel.app/)** | **FastAPI, React, Gemini 2.0, Pinecone** | A Full-Stack **RAG** system for Indonesian Labor Law analysis. **Developed using AI-assisted workflows** to accelerate the implementation of Context-Aware Memory, semantic search, and automatic citation features. |
+| **[Phishing Detection 1D-CNN](https://phisingdetection1dcnnhayyan.netlify.app/)** | **TensorFlow, Python, Flask** | An end-to-end **Deep Learning** system using a **1D-CNN** architecture. Trained on a custom-balanced dataset to detect malicious URLs with **99% accuracy** on unseen test data. |
+| **[Sistem Geospasial Brebes](https://hayyankomdigi.pythonanywhere.com/)** | **Flask, Python, Leaflet.js, SQL** | A WebGIS application developed during my internship at **Komdigi Brebes**. Digitized infrastructure data mapping to improve regional planning efficiency. |
 
 ---
 
 ### My Technical Toolkit
 
-Here's a rundown of the programming languages and technologies that form my core strengths:
+I possess a hybrid skillset, leveraging modern tools to build robust applications:
 
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,python,typescript,javascript,flutter,laravel,html,css)](https://skillicons.dev)
+**Artificial Intelligence & Data:**
+<br>
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,python,sklearn,pandas,opencv&theme=dark)](https://skillicons.dev)
+
+**Web Development & Backend:**
+<br>
+[![My Skills](https://skillicons.dev/icons?i=react,fastapi,flask,html,css,tailwind,mysql,postgres&theme=dark)](https://skillicons.dev)
+
+**DevOps & Tools:**
+<br>
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,docker,postman,linux&theme=dark)](https://skillicons.dev)
+
+---
+
+### Experience
+
+* **Full Stack Developer Intern** @ Dinkominfotik (Komdigi) Brebes Regency
+    * Developed and deployed a Geospatial Information System (GIS) for regional infrastructure mapping.
+* **Laboratory Assistant** @ Telkom University Purwokerto
+    * Mentored students in Object-Oriented Programming (Java) and assisted in grading/practical exams.
 
 ---
 
-### Projects & Core Interests
+### Current Focus
 
-My focus areas include:
+I am currently exploring **LLM Agents** and **Computer Vision**.
 
-* **Web Application Development:** Crafting responsive, efficient, and user-friendly web solutions that deliver optimal experiences.
-* **Mobile Application Development (Flutter):** Building feature-rich, visually appealing, and high-performing cross-platform mobile applications.
-* **Machine Learning:** Translating data into intelligent insights and solutions through the development and implementation of ML models.
+ **I am actively seeking Internship opportunities** in:
+* AI Engineering / Machine Learning Engineer
+* Data Science
+* Back-End / Full-Stack Python Development
+* or anyting 
 
----
 
-### What I'm Currently Working On
-
-Currently, I'm actively involved in projects at Komdigi Brebes Regency, continuously learning, and innovating. I'm always eager to collaborate on challenging software development and machine learning initiatives.
-
----
 
 ### Let's Connect!
 
-I'd love to chat about technology, share ideas, or explore potential collaborations. Feel free to reach out!
+Open to discussing AI innovations, tech collaborations, or internship opportunities.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hayyannashrulloh)
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hayyannashrulloh)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hayyannashrulloh@gmail.com)
