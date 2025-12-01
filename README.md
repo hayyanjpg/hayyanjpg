@@ -6,7 +6,7 @@ I believe in working smart. My approach combines fundamental software engineerin
 
 
 
-###  Featured Projects
+###  Featured Projects (Portfolio)
 
 Here are some of the production-ready projects I have built and deployed:
 
