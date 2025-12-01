@@ -4,20 +4,25 @@ I am a final-year **Informatics Engineering** student at **Telkom University Pur
 
 I believe in working smart. My approach combines fundamental software engineering principles with **AI-Assisted Development** workflows. I focus on bridging the gap between complex AI models and real-world utility—moving from concept to deployment efficiently.
 
+---
 
-### Featured Projects
+###  Featured Projects
 
 Here are some of the production-ready projects I have built and deployed:
 
 | Project | Tech Stack | Key Highlights |
 | :--- | :--- | :--- |
-| **[Tanya UU Naker (RAG AI)](https://tanya-uu-naker.vercel.app/)** | **FastAPI, React, Gemini 2.0, Pinecone** | A Full-Stack **RAG** system for Indonesian Labor Law analysis. **Developed using AI-assisted workflows** to accelerate the implementation of Context-Aware Memory, semantic search, and automatic citation features. |
+| **[Tanya UU Naker (RAG AI)](https://tanya-uu-naker.vercel.app/)** | **FastAPI, React, Gemini 2.0, Pinecone** | A Full-Stack **RAG** system for analyzing Indonesian Labor Law. **Developed using AI-assisted workflows** to accelerate the implementation of Context-Aware Memory, semantic search, and automatic citation features. |
 | **[Phishing Detection 1D-CNN](https://phisingdetection1dcnnhayyan.netlify.app/)** | **TensorFlow, Python, Flask** | An end-to-end **Deep Learning** system using a **1D-CNN** architecture. Trained on a custom-balanced dataset to detect malicious URLs with **99% accuracy** on unseen test data. |
 | **[Sistem Geospasial Brebes](https://hayyankomdigi.pythonanywhere.com/)** | **Flask, Python, Leaflet.js, SQL** | A WebGIS application developed during my internship at **Komdigi Brebes**. Digitized infrastructure data mapping to improve regional planning efficiency. |
 
----
+####  Data Source Transparency
+The **Tanya UU Naker** RAG system is strictly grounded on official legal documents to ensure accuracy and minimize hallucination:
+* **Primary Source:** [UU No. 13 Tahun 2003 tentang Ketenagakerjaan](https://peraturan.bpk.go.id/Details/43013/uu-no-13-tahun-2003)
+* **Retrieval Scope:** 193 Articles (Pasal) parsed and indexed into Pinecone Vector Database.
 
-### My Technical Toolkit
+
+###  My Technical Toolkit
 
 I possess a hybrid skillset, leveraging modern tools to build robust applications:
 
@@ -27,7 +32,7 @@ I possess a hybrid skillset, leveraging modern tools to build robust application
 
 **Web Development & Backend:**
 <br>
-[![My Skills](https://skillicons.dev/icons?i=react,fastapi,flask,html,css,tailwind,mysql,postgres&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,fastapi,flask,laravel,html,css,tailwind,mysql,postgres&theme=dark)](https://skillicons.dev)
 
 **DevOps & Tools:**
 <br>
@@ -35,7 +40,7 @@ I possess a hybrid skillset, leveraging modern tools to build robust application
 
 ---
 
-### Experience
+###  Experience
 
 * **Full Stack Developer Intern** @ Dinkominfotik (Komdigi) Brebes Regency
     * Developed and deployed a Geospatial Information System (GIS) for regional infrastructure mapping.
@@ -44,7 +49,7 @@ I possess a hybrid skillset, leveraging modern tools to build robust application
 
 ---
 
-### Current Focus
+###  Current Focus
 
 I am currently exploring **LLM Agents** and **Computer Vision**.
 
@@ -52,11 +57,10 @@ I am currently exploring **LLM Agents** and **Computer Vision**.
 * AI Engineering / Machine Learning Engineer
 * Data Science
 * Back-End / Full-Stack Python Development
-* or anyting 
 
 
 
-### Let's Connect!
+###  Let's Connect!
 
 Open to discussing AI innovations, tech collaborations, or internship opportunities.
 
