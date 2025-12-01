@@ -4,7 +4,7 @@ I am a final-year **Informatics Engineering** student at **Telkom University Pur
 
 I believe in working smart. My approach combines fundamental software engineering principles with **AI-Assisted Development** workflows. I focus on bridging the gap between complex AI models and real-world utility—moving from concept to deployment efficiently.
 
----
+
 
 ###  Featured Projects
 
@@ -32,13 +32,13 @@ I possess a hybrid skillset, leveraging modern tools to build robust application
 
 **Web Development & Backend:**
 <br>
-[![My Skills](https://skillicons.dev/icons?i=react,fastapi,flask,laravel,html,css,tailwind,mysql,postgres&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,fastapi,flask,html,css,tailwind,mysql,postgres&theme=dark)](https://skillicons.dev)
 
 **DevOps & Tools:**
 <br>
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,docker,postman,linux&theme=dark)](https://skillicons.dev)
 
----
+
 
 ###  Experience
 
@@ -47,7 +47,7 @@ I possess a hybrid skillset, leveraging modern tools to build robust application
 * **Laboratory Assistant** @ Telkom University Purwokerto
     * Mentored students in Object-Oriented Programming (Java) and assisted in grading/practical exams.
 
----
+
 
 ###  Current Focus
 
