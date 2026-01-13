@@ -2,7 +2,7 @@
 
 I am a final-year **Informatics Engineering** student at **Telkom University Purwokerto**, specializing in **AI Engineering**, **Full-Stack Development**, and **Software Quality Assurance**.
 
-I believe in building robust systems. My approach combines fundamental software engineering principles with **AI-Assisted Development** workflows. I focus on the entire lifecycle—from building complex AI models to ensuring their stability and performance through rigorous **QA Testing**.
+I believe in building robust systems. My approach combines fundamental software engineering principles with **AI-Assisted Development** workflows. I focus on the entire lifecycle from building complex AI models to ensuring their stability and performance through rigorous **QA Testing**.
 
 ###  Featured Projects (Portfolio)
 
