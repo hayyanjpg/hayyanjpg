@@ -34,7 +34,7 @@ I possess a hybrid skillset, leveraging modern tools to build and test robust ap
 
 **Quality Assurance & Testing:**
 <br>
-[![My Skills](https://skillicons.dev/icons?i=postman,selenium,jest,githubactions&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman,selenium,githubactions&theme=dark)](https://skillicons.dev)
 
 **DevOps & Tools:**
 <br>
