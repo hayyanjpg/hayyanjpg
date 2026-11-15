@@ -8,12 +8,19 @@ I believe in building robust systems. My approach combines fundamental software 
 
 Here are some of the production-ready projects I have built, tested, and deployed:
 
-| Project | Tech Stack | Key Highlights |
-| :--- | :--- | :--- |
-| **[EksploreMas (Dev & QA)](https://github.com/hayyanjpg/EksploreMas)** | **k6, Postman, Lighthouse, Rust, TypeScript** | A dual-portfolio project demonstrating **Full-Stack Dev** and **QA Engineering**. Performed **Load Testing (50 concurrent users)**, API Validation, and Performance Audits. Identified critical latency issues and proposed Redis caching solutions. |
-| **[Tanya UU Naker (RAG AI)](https://tanya-uu-naker.vercel.app/)** | **FastAPI, React, Gemini 2.0, Pinecone** | A Full-Stack **RAG** system for analyzing Indonesian Labor Law. **Developed using AI-assisted workflows** to accelerate the implementation of Context-Aware Memory, semantic search, and automatic citation features. |
-| **[Phishing Detection 1D-CNN](https://phisingdetection1dcnnhayyan.netlify.app/)** | **TensorFlow, Python, Flask** | An end-to-end **Deep Learning** system using a **1D-CNN** architecture. Trained on a custom-balanced dataset to detect malicious URLs with **99% accuracy** on unseen test data. |
-| **[Sistem Geospasial Brebes](https://hayyankomdigi.pythonanywhere.com/)** | **Flask, Python, Leaflet.js, SQL** | A WebGIS application developed during my internship at **Komdigi Brebes**. Digitized infrastructure data mapping to improve regional planning efficiency. |
+| Project | Tech Stack | Key Highlights | Links |
+| :--- | :--- | :--- | :--- |
+| **[EksploreMas (Dev & QA)](https://github.com/hayyanjpg/EksploreMas)** | **Rust, TypeScript, k6, Postman, Lighthouse** | A dual-portfolio project demonstrating **Full-Stack Dev** and **QA Engineering**. Performed **Load Testing (50 concurrent users)**, API Validation, and Performance Audits. Identified critical latency issues and proposed Redis caching solutions. | [Repo](https://github.com/hayyanjpg/EksploreMas) |
+| **[Tanya UU Naker (RAG AI)](https://tanya-uu-naker.vercel.app/)** | **FastAPI, React, Gemini 2.0, Pinecone** | A Full-Stack **RAG** system for analyzing Indonesian Labor Law. **Developed using AI-assisted workflows** to accelerate the implementation of Context-Aware Memory, semantic search, and automatic citation features. | [Repo](https://github.com/hayyanjpg/backend_hukum) · [Live](https://tanya-uu-naker.vercel.app/) |
+| **[SIFT — Text-to-SQL Desk](https://sql-analysis.vercel.app/)** | **FastAPI, PostgreSQL, React, Pandas** | A natural-language analytics platform: upload your own dataset, ask questions in Indonesian or English, and get tables plus charts from PostgreSQL. Every `INSERT`, `UPDATE`, and `DELETE` waits for explicit user approval — no silent writes. | [Repo](https://github.com/hayyanjpg/SQL_Analysis) · [Live](https://sql-analysis.vercel.app/) |
+| **[Multichannel Reconciliation Pipeline](https://github.com/hayyanjpg/reconciliation-pipeline)** | **Python, FastAPI, React, Streamlit, SQL** | A **Data Engineering & Data Quality** portfolio: end-to-end ETL for multichannel order and payment data — ingestion, normalization, **16 automated SQL audit checks**, financial reconciliation, and automated reporting with a full-stack dashboard. | [Repo](https://github.com/hayyanjpg/reconciliation-pipeline) |
+| **[Phishing Detection 1D-CNN](https://phisingdetection1dcnnhayyan.netlify.app/)** | **TensorFlow, Python, Flask** | An end-to-end **Deep Learning** system using a **1D-CNN** architecture. Trained on a custom-balanced dataset to detect malicious URLs with **97.27% accuracy** on unseen test data. | [Repo](https://github.com/hayyanjpg/Model_Phising_Detection_4.1) · [Live](https://phisingdetection1dcnnhayyan.netlify.app/) |
+| **[Sistem Geospasial Brebes](https://hayyankomdigi.pythonanywhere.com/)** | **Flask, Python, Leaflet.js, SQL** | A WebGIS application developed during my internship at **Komdigi Brebes**. Digitized infrastructure data mapping to improve regional planning efficiency. | [Repo](https://github.com/hayyanjpg/Geo_PortalBrebes) · [Live](https://hayyankomdigi.pythonanywhere.com/) |
+
+#### Also explored
+
+* **[Face Anti-Spoofing](https://github.com/hayyanjpg/anti_spoofing)** — Client-specific anomaly detection for biometric face verification using **One-Class SVM** (Python, OpenCV, scikit-learn).
+* **[Ingetin](https://github.com/hayyanjpg/task-management)** — A clean Flutter task manager app with deadlines, priority levels, and active-task views.
 
 ####  Data Source Transparency
 The **Tanya UU Naker** RAG system is strictly grounded on official legal documents to ensure accuracy and minimize hallucination:
@@ -30,7 +37,7 @@ I possess a hybrid skillset, leveraging modern tools to build and test robust ap
 
 **Web Development & Backend:**
 <br>
-[![My Skills](https://skillicons.dev/icons?i=react,fastapi,flask,html,css,tailwind,mysql,postgres&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,fastapi,flask,rust,html,css,tailwind,mysql,postgres&theme=dark)](https://skillicons.dev)
 
 **Quality Assurance & Testing:**
 <br>
@@ -49,7 +56,7 @@ I possess a hybrid skillset, leveraging modern tools to build and test robust ap
 
 ###  Current Focus
 
-I am currently exploring **LLM Agents**, **Computer Vision**, and **Quality Assurance Enggineer**.
+I am currently exploring **LLM Agents**, **Computer Vision**, **Data Engineering**, and **Quality Assurance Engineering**.
 
  **I am actively seeking Internship opportunities** in:
 * QA Engineer / Software Tester (Manual & Automation)
