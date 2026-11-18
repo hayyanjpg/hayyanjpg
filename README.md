@@ -1,71 +1,136 @@
-# Hi there, I'm Hayyan! 
+<div align="center">
 
-I am a recent Informatics Engineering graduate from Telkom University Purwokerto, specializing in **AI Engineering**, **Full-Stack Development**, and **Software Quality Assurance**.
+# Hi, I'm Hayyan N 👋
 
-I believe in building robust systems. My approach combines fundamental software engineering principles with **AI-Assisted Development** workflows. I focus on the entire lifecycle from building complex AI models to ensuring their stability and performance through rigorous **QA Testing**.
+**Informatics Engineering Graduate (Telkom University)** · AI/ML · Full-Stack · Data & QA  
+📍 Central Java, Indonesia
 
-###  Featured Projects (Portfolio)
+[![GitHub followers](https://img.shields.io/github/followers/hayyanjpg?label=Followers&style=for-the-badge&logo=github)](https://github.com/hayyanjpg?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/hayyanjpg?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github)](https://github.com/hayyanjpg?tab=repositories)
+[![Profile views](https://komarev.com/ghpvc/?username=hayyanjpg&style=for-the-badge&color=0e75b6)](https://github.com/hayyanjpg)
 
-Here are some of the production-ready projects I have built, tested, and deployed:
+</div>
 
-| Project | Tech Stack | Key Highlights | Links |
-| :--- | :--- | :--- | :--- |
-| **[EksploreMas (Dev & QA)](https://github.com/hayyanjpg/EksploreMas)** | **Rust, TypeScript, k6, Postman, Lighthouse** | A dual-portfolio project demonstrating **Full-Stack Dev** and **QA Engineering**. Performed **Load Testing (50 concurrent users)**, API Validation, and Performance Audits. Identified critical latency issues and proposed Redis caching solutions. | [Repo](https://github.com/hayyanjpg/EksploreMas) |
-| **[Tanya UU Naker (RAG AI)](https://tanya-uu-naker.vercel.app/)** | **FastAPI, React, Gemini 2.0, Pinecone** | A Full-Stack **RAG** system for analyzing Indonesian Labor Law. **Developed using AI-assisted workflows** to accelerate the implementation of Context-Aware Memory, semantic search, and automatic citation features. | [Repo](https://github.com/hayyanjpg/backend_hukum) · [Live](https://tanya-uu-naker.vercel.app/) |
-| **[SIFT — Text-to-SQL Desk](https://sql-analysis.vercel.app/)** | **FastAPI, PostgreSQL, React, Pandas** | A natural-language analytics platform: upload your own dataset, ask questions in Indonesian or English, and get tables plus charts from PostgreSQL. Every `INSERT`, `UPDATE`, and `DELETE` waits for explicit user approval — no silent writes. | [Repo](https://github.com/hayyanjpg/SQL_Analysis) · [Live](https://sql-analysis.vercel.app/) |
-| **[Multichannel Reconciliation Pipeline](https://github.com/hayyanjpg/reconciliation-pipeline)** | **Python, FastAPI, React, Streamlit, SQL** | A **Data Engineering & Data Quality** portfolio: end-to-end ETL for multichannel order and payment data — ingestion, normalization, **16 automated SQL audit checks**, financial reconciliation, and automated reporting with a full-stack dashboard. | [Repo](https://github.com/hayyanjpg/reconciliation-pipeline) |
-| **[Phishing Detection 1D-CNN](https://phisingdetection1dcnnhayyan.netlify.app/)** | **TensorFlow, Python, Flask** | An end-to-end **Deep Learning** system using a **1D-CNN** architecture. Trained on a custom-balanced dataset to detect malicious URLs with **97.27% accuracy** on unseen test data. | [Repo](https://github.com/hayyanjpg/Model_Phising_Detection_4.1) · [Live](https://phisingdetection1dcnnhayyan.netlify.app/) |
-| **[Sistem Geospasial Brebes](https://hayyankomdigi.pythonanywhere.com/)** | **Flask, Python, Leaflet.js, SQL** | A WebGIS application developed during my internship at **Komdigi Brebes**. Digitized infrastructure data mapping to improve regional planning efficiency. | [Repo](https://github.com/hayyanjpg/Geo_PortalBrebes) · [Live](https://hayyankomdigi.pythonanywhere.com/) |
+---
 
-#### Also explored
+## 👨‍💻 About Me
 
-* **[Face Anti-Spoofing](https://github.com/hayyanjpg/anti_spoofing)** — Client-specific anomaly detection for biometric face verification using **One-Class SVM** (Python, OpenCV, scikit-learn).
-* **[Ingetin](https://github.com/hayyanjpg/task-management)** — A clean Flutter task manager app with deadlines, priority levels, and active-task views.
+- 🎓 Bachelor's Degree in **Informatics Engineering**, Telkom University  
+- 📜 **Front-End Certified** by Dicoding (as stated in profile bio)
+- 🔭 Interested in building and exploring **AI/ML systems**, **full-stack web apps**, **data pipelines**, and **software quality**
+- 🧪 Experience across the lifecycle: from model/app development to testing and deployment
+- 🌱 Public repositories on this account: **40** (including original projects, learning repos, and forks)
 
-####  Data Source Transparency
-The **Tanya UU Naker** RAG system is strictly grounded on official legal documents to ensure accuracy and minimize hallucination:
-* **Primary Source:** [UU No. 13 Tahun 2003 tentang Ketenagakerjaan](https://peraturan.bpk.go.id/Details/43013/uu-no-13-tahun-2003)
-* **Retrieval Scope:** 193 Articles (Pasal) parsed and indexed into Pinecone Vector Database.
+> This profile README is curated from public repository facts on this GitHub account.
 
-###  My Technical Toolkit
+---
 
-I possess a hybrid skillset, leveraging modern tools to build and test robust applications:
+## 🚀 Featured Projects
 
-**Artificial Intelligence & Data:**
-<br>
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,python,sklearn,pandas,opencv&theme=dark)](https://skillicons.dev)
+| Project | Description | Stack / Topics | Links |
+|---|---|---|---|
+| **[bogana-ai-erp-system](https://github.com/hayyanjpg/bogana-ai-erp-system)** | ERP internal F&B B2B: NLP order parser, PostgreSQL, Redis, FastAPI, dan dashboard PHP. | PHP, FastAPI, PostgreSQL, Redis, NLP, Docker, ERP, Forecasting | [Repo](https://github.com/hayyanjpg/bogana-ai-erp-system) · [Live](https://bogana-ai-erp-system.vercel.app) · ⭐ 1 |
+| **[SQL_Analysis](https://github.com/hayyanjpg/SQL_Analysis)** | Data/SQL analysis web project (public repo). | JavaScript | [Repo](https://github.com/hayyanjpg/SQL_Analysis) · [Live](https://sql-analysis.vercel.app) · ⭐ 1 |
+| **[backend_hukum](https://github.com/hayyanjpg/backend_hukum)** | A high-performance Retrieval-Augmented Generation (RAG) API designed to provide accurate legal consultation regarding Indonesian Labor Law (UU No. 13 Tahun 2003). | Python | [Repo](https://github.com/hayyanjpg/backend_hukum) · ⭐ 1 |
+| **[reconciliation-pipeline](https://github.com/hayyanjpg/reconciliation-pipeline)** | Multichannel reconciliation pipeline project. | Python | [Repo](https://github.com/hayyanjpg/reconciliation-pipeline) |
+| **[phisingdetection_v5](https://github.com/hayyanjpg/phisingdetection_v5)** | Phishing detection project (v5). | Python | [Repo](https://github.com/hayyanjpg/phisingdetection_v5) · [Live](https://phisingdetection-v5.vercel.app) |
+| **[Phishing-Detection-Analysis-Models](https://github.com/hayyanjpg/Phishing-Detection-Analysis-Models)** | Analysis Random Forest, Logistic Regression and Support Vector Machine for phishing detection. | Python | [Repo](https://github.com/hayyanjpg/Phishing-Detection-Analysis-Models) |
+| **[Model_Phising_Detection_4.1](https://github.com/hayyanjpg/Model_Phising_Detection_4.1)** | Improvements to the AI detection model from the previous version. | — | [Repo](https://github.com/hayyanjpg/Model_Phising_Detection_4.1) · ⭐ 1 |
+| **[EksploreMas](https://github.com/hayyanjpg/EksploreMas)** | Website untuk eksplorasi Kabupaten Banyumas (Purwokerto). | TypeScript | [Repo](https://github.com/hayyanjpg/EksploreMas) · [Live](https://eksplore-mas.vercel.app) |
+| **[FrontEnd_Intern](https://github.com/hayyanjpg/FrontEnd_Intern)** | Slicing and implementing a responsive coffee shop landing page built with Next.js, featuring cart persistence and modern CSS layouts. | TypeScript | [Repo](https://github.com/hayyanjpg/FrontEnd_Intern) · [Live](https://front-end-intern-two.vercel.app) |
+| **[SKRIPSI](https://github.com/hayyanjpg/SKRIPSI)** | Lampiran code skripsi. | Jupyter Notebook | [Repo](https://github.com/hayyanjpg/SKRIPSI) |
 
-**Web Development & Backend:**
-<br>
-[![My Skills](https://skillicons.dev/icons?i=react,fastapi,flask,rust,html,css,tailwind,mysql,postgres&theme=dark)](https://skillicons.dev)
+---
 
-**Quality Assurance & Testing:**
-<br>
-[![My Skills](https://skillicons.dev/icons?i=postman,selenium,githubactions&theme=dark)](https://skillicons.dev)
+## 🗂️ Repository Directory (Public)
 
-**DevOps & Tools:**
-<br>
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,docker,linux&theme=dark)](https://skillicons.dev)
+> Based on public repositories available on this account.
 
-###  Experience
+### 🤖 AI, ML & Data
+- [**bogana-ai-erp-system**](https://github.com/hayyanjpg/bogana-ai-erp-system) — ERP internal F&B B2B: NLP order parser, PostgreSQL, Redis, FastAPI, dan dashboard PHP. *(PHP, ⭐ 1, [Live](https://bogana-ai-erp-system.vercel.app))*
+- [**backend_hukum**](https://github.com/hayyanjpg/backend_hukum) — RAG API for Indonesian Labor Law (UU No. 13 Tahun 2003). *(Python, ⭐ 1)*
+- [**reconciliation-pipeline**](https://github.com/hayyanjpg/reconciliation-pipeline) — Multichannel reconciliation pipeline. *(Python)*
+- [**phisingdetection_v5**](https://github.com/hayyanjpg/phisingdetection_v5) — Phishing detection project (v5). *(Python, [Live](https://phisingdetection-v5.vercel.app))*
+- [**Phishing-Detection-Analysis-Models**](https://github.com/hayyanjpg/Phishing-Detection-Analysis-Models) — Analysis Random Forest, Logistic Regression and SVM for phishing detection. *(Python)*
+- [**Model_Phising_Detection_4.1**](https://github.com/hayyanjpg/Model_Phising_Detection_4.1) — Improvements to the AI detection model from the previous version. *(⭐ 1)*
+- [**anti_spoofing**](https://github.com/hayyanjpg/anti_spoofing) — Anti-spoofing project. *(Python)*
+- [**SKRIPSI**](https://github.com/hayyanjpg/SKRIPSI) — Lampiran code skripsi. *(Jupyter Notebook)*
+- [**bitcoin-price-detection**](https://github.com/hayyanjpg/bitcoin-price-detection) — On going - ML for prediction bitcoin price. *(—)*
+- [**sakila_sql**](https://github.com/hayyanjpg/sakila_sql) — Database untuk uji coba. *(—)*
 
-* **Full Stack Developer Intern** @ Dinkominfotik (Komdigi) Brebes Regency
-    * Developed and deployed a Geospatial Information System (GIS) for regional infrastructure mapping.
-* **Laboratory Assistant** @ Telkom University Purwokerto
-    * Mentored students in Object-Oriented Programming (Java) and assisted in grading/practical exams.
+### 🌐 Web & Full-Stack
+- [**SQL_Analysis**](https://github.com/hayyanjpg/SQL_Analysis) — SQL analysis web project. *(JavaScript, ⭐ 1, [Live](https://sql-analysis.vercel.app))*
+- [**EksploreMas**](https://github.com/hayyanjpg/EksploreMas) — Website untuk eksplorasi Kabupaten Banyumas (Purwokerto). *(TypeScript, [Live](https://eksplore-mas.vercel.app))*
+- [**Ekploremas_Local**](https://github.com/hayyanjpg/Ekploremas_Local) — Local version/related project for EksploreMas. *(TypeScript)*
+- [**FrontEnd_Intern**](https://github.com/hayyanjpg/FrontEnd_Intern) — Responsive coffee shop landing page built with Next.js, featuring cart persistence and modern CSS layouts. *(TypeScript, [Live](https://front-end-intern-two.vercel.app))*
+- [**hayyanjpg.github.io**](https://github.com/hayyanjpg/hayyanjpg.github.io) — Personal GitHub Pages site. *(HTML)*
+- [**FrontEnd_LMS**](https://github.com/hayyanjpg/FrontEnd_LMS) — Just have fun (LMS front-end). *(TypeScript)*
+- [**react_review_sekolah**](https://github.com/hayyanjpg/react_review_sekolah) — School review app (React). *(JavaScript)*
+- [**review_seklah**](https://github.com/hayyanjpg/review_seklah) — School review project. *(HTML)*
+- [**FlaskBEWEB**](https://github.com/hayyanjpg/FlaskBEWEB) — Flask web/backend project. *(HTML)*
+- [**ingetinBE**](https://github.com/hayyanjpg/ingetinBE) — Backend for Ingetin. *(PHP)*
+- [**laravel**](https://github.com/hayyanjpg/laravel) — Laravel project. *(Blade)*
+- [**TekkomGYMUpdate**](https://github.com/hayyanjpg/TekkomGYMUpdate) — Simple web about GYM. *(HTML)*
+- [**TekkomGYM**](https://github.com/hayyanjpg/TekkomGYM) — Simple web about GYM. *(HTML)*
+- [**projektelurasin1111**](https://github.com/hayyanjpg/projektelurasin1111) — Salted egg web project. *(HTML)*
+- [**telurasinterbaru**](https://github.com/hayyanjpg/telurasinterbaru) — Add fitur market and login. *(HTML)*
+- [**Telor-asin-login-market**](https://github.com/hayyanjpg/Telor-asin-login-market) — Add fitur login register and market. *(—)*
+- [**projektelurasin**](https://github.com/hayyanjpg/projektelurasin) — Simple web about SaltedEgg. *(HTML)*
 
-###  Current Focus
+### 📱 Mobile & Apps
+- [**task-management**](https://github.com/hayyanjpg/task-management) — Task management app. *(Dart)*
+- [**IngetinTaskManagement-APP**](https://github.com/hayyanjpg/IngetinTaskManagement-APP) — Simple login and sign page mobile using Dart. *(Dart)*
+- [**first**](https://github.com/hayyanjpg/first) — Learn. *(Dart)*
 
-I am currently exploring **LLM Agents**, **Computer Vision**, **Data Engineering**, and **Quality Assurance Engineering**.
+### 🧠 Learning, Practice & Misc
+- [**belajar-rust-python**](https://github.com/hayyanjpg/belajar-rust-python) — Belajar Rust dan Python: struktur folder + roadmap. *(Rust)*
+- [**AsprakPBO**](https://github.com/hayyanjpg/AsprakPBO) — PBO / assistant practicum materials. *(Java, ⭐ 2)*
+- [**pbo**](https://github.com/hayyanjpg/pbo) — PBO practice. *(Java)*
+- [**game_ular**](https://github.com/hayyanjpg/game_ular) — Snake game. *(Python, 🍴 1)*
+- [**python_mini-project**](https://github.com/hayyanjpg/python_mini-project) — Python mini projects. *(Python)*
+- [**CPP_mini-project**](https://github.com/hayyanjpg/CPP_mini-project) — C++ mini projects. *(C++)*
+- [**TSP**](https://github.com/hayyanjpg/TSP) — TSP-related project. *(Python)*
+- [**tekkom_gym**](https://github.com/hayyanjpg/tekkom_gym) — Forked repository. *(Python, fork)*
+- [**FastAPI**](https://github.com/hayyanjpg/FastAPI) — FastAPI project. *(Python, fork)*
 
- **I am actively seeking Internship opportunities** in:
-* QA Engineer / Software Tester (Manual & Automation)
-* AI Engineering / Machine Learning Engineer
-* Back-End / Full-Stack Python Development
+### 👤 Profile
+- [**hayyanjpg**](https://github.com/hayyanjpg/hayyanjpg) — GitHub profile repository (this README).
 
-###  Let's Connect!
+---
 
-Open to discussing AI innovations, tech collaborations, or internship opportunities.
+## 🛠️ Tech Snapshot (from public repositories)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hayyannashrulloh)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hayyannashrulloh@gmail.com)
+`PHP` · `Python` · `TypeScript` · `JavaScript` · `Rust` · `Jupyter Notebook` · `HTML` · `Dart` · `Java` · `C++` · `Blade`  
+**Topics seen:** `docker`, `erp`, `fastapi`, `forecasting`, `nlp`, `php`, `postgresql`, `redis`
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,typescript,javascript,php,rust,java,cpp,dart,html,css,react,nextjs,fastapi,flask,laravel,postgres,redis,docker,git,github,tensorflow,sklearn&perline=11" alt="Tech stack icons" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hayyanjpg&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Hayyan's GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayyanjpg&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=hayyanjpg&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
+
+---
+
+## 🤝 Connect
+
+- GitHub: [@hayyanjpg](https://github.com/hayyanjpg)
+- Location: Central Java, Indonesia
+
+<div align="center">
+  
+_Thanks for visiting! Feel free to explore the repositories above._
+
+</div>
