@@ -2,12 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=HAYYAN%20N&fontSize=52&fontColor=39FF14&animation=twinkling&fontAlignY=38&desc=PLAYER%201%20%20%7C%20%20INSERT%20COIN%20TO%20CONTINUE&descAlignY=58&descSize=18&descColor=00E5FF" alt="pixel header" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=900&lines=Informatics+Engineering+grad+%E2%80%94+Telkom+University;Building+AI%2FML%2C+web%2C+and+data+projects;Front-End+Certified+by+Dicoding;Based+in+Central+Java%2C+Indonesia;40+public+repos+%E2%80%94+originals%2C+experiments%2C+and+forks" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=900&lines=Informatics+Engineering+grad+%E2%80%94+Telkom+University;Building+AI%2FML%2C+web%2C+and+data+projects;Front-End+Certified+by+Dicoding;Based+in+Central+Java%2C+Indonesia;41+public+repos+%E2%80%94+originals%2C+experiments%2C+and+forks" alt="typing intro" />
 
 <br/>
 
 [![Followers](https://img.shields.io/github/followers/hayyanjpg?style=for-the-badge&label=Followers&color=39FF14&labelColor=1a1a2e&logo=github&logoColor=black)](https://github.com/hayyanjpg?tab=followers)
-[![Public Repos](https://img.shields.io/badge/Public%20Repos-40-00E5FF?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a2e)](https://github.com/hayyanjpg?tab=repositories)
+[![Public Repos](https://img.shields.io/badge/Public%20Repos-41-00E5FF?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a2e)](https://github.com/hayyanjpg?tab=repositories)
 [![Stars](https://img.shields.io/github/stars/hayyanjpg?style=for-the-badge&label=Stars&color=FF6EC7&labelColor=1a1a2e&logo=github&logoColor=black)](https://github.com/hayyanjpg?tab=repositories)
 [![Views](https://komarev.com/ghpvc/?username=hayyanjpg&style=for-the-badge&color=39FF14&label=VISITORS)](https://github.com/hayyanjpg)
 
