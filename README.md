@@ -6,9 +6,9 @@
 
 <br/>
 
-[![Followers](https://img.shields.io/badge/Followers-22-39FF14?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a2e)](https://github.com/hayyanjpg?tab=followers)
+[![Followers](https://img.shields.io/badge/Followers-33-39FF14?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a2e)](https://github.com/hayyanjpg?tab=followers)
 [![Public Repos](https://img.shields.io/badge/Public%20Repos-40-00E5FF?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a2e)](https://github.com/hayyanjpg?tab=repositories)
-[![Stars](https://img.shields.io/badge/Stars-check%20profile-FF6EC7?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a2e)](https://github.com/hayyanjpg?tab=repositories)
+[![Stars](https://img.shields.io/badge/Stars-6-FF6EC7?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a2e)](https://github.com/hayyanjpg?tab=repositories)
 [![Views](https://komarev.com/ghpvc/?username=hayyanjpg&style=for-the-badge&color=39FF14&label=VISITORS)](https://github.com/hayyanjpg)
 
 </div>
