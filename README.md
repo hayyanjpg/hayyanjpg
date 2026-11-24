@@ -2,12 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=HAYYAN%20N&fontSize=52&fontColor=39FF14&animation=twinkling&fontAlignY=38&desc=PLAYER%201%20%20%7C%20%20INSERT%20COIN%20TO%20CONTINUE&descAlignY=58&descSize=18&descColor=00E5FF" alt="pixel header" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=900&lines=Informatics+Engineering+grad+%E2%80%94+Telkom+University;Building+AI%2FML%2C+web%2C+and+data+projects;Front-End+Certified+by+Dicoding;Based+in+Central+Java%2C+Indonesia;42+public+repos+%E2%80%94+originals%2C+experiments%2C+and+forks" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=900&lines=Informatics+Engineering+grad+%E2%80%94+Telkom+University;Building+AI%2FML%2C+web%2C+and+data+projects;Front-End+Certified+by+Dicoding;Based+in+Central+Java%2C+Indonesia;Open+to+AI+Engineer+%26+Full-Stack+roles;44+public+repos+%E2%80%94+originals%2C+experiments%2C+and+forks" alt="typing intro" />
 
 <br/>
 
 [![Followers](https://img.shields.io/github/followers/hayyanjpg?style=for-the-badge&label=Followers&color=39FF14&labelColor=1a1a2e&logo=github&logoColor=black)](https://github.com/hayyanjpg?tab=followers)
-[![Public Repos](https://img.shields.io/badge/Public%20Repos-42-00E5FF?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a2e)](https://github.com/hayyanjpg?tab=repositories)
+[![Public Repos](https://img.shields.io/badge/Public%20Repos-44-00E5FF?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a2e)](https://github.com/hayyanjpg?tab=repositories)
 [![Stars](https://img.shields.io/github/stars/hayyanjpg?style=for-the-badge&label=Stars&color=FF6EC7&labelColor=1a1a2e&logo=github&logoColor=black)](https://github.com/hayyanjpg?tab=repositories)
 [![Views](https://komarev.com/ghpvc/?username=hayyanjpg&style=for-the-badge&color=39FF14&label=VISITORS)](https://github.com/hayyanjpg)
 
@@ -38,7 +38,7 @@ MODE      : Build → test → ship → learn → repeat
 
 | Quest | What it is | Stack / Signals | Loot |
 |---|---|---|---|
-| **[bogana-ai-erp-system](https://github.com/hayyanjpg/bogana-ai-erp-system)** | ERP internal F&B B2B: NLP order parser, PostgreSQL, Redis, FastAPI, dan dashboard PHP. | PHP, FastAPI, PostgreSQL, Redis, NLP, Docker, ERP, Forecasting | [Repo](https://github.com/hayyanjpg/bogana-ai-erp-system) · [Live](https://bogana-ai-erp-system.vercel.app) · ⭐ 1 |
+| **[bogana-ai-erp-system](https://github.com/hayyanjpg/bogana-ai-erp-system)** | ERP internal F&B B2B: NLP order parser, PostgreSQL, Redis, FastAPI, dan dashboard PHP. | PHP, FastAPI, PostgreSQL, Redis, NLP, Docker, ERP, Forecasting | [Repo](https://github.com/hayyanjpg/bogana-ai-erp-system) · [Live](https://bogana-ai-erp-system-efli.vercel.app/?page=dashboard) · ⭐ 1 |
 | **[SQL_Analysis](https://github.com/hayyanjpg/SQL_Analysis)** | Data/SQL analysis web project. | JavaScript | [Repo](https://github.com/hayyanjpg/SQL_Analysis) · [Live](https://sql-analysis.vercel.app) · ⭐ 1 |
 | **[backend_hukum](https://github.com/hayyanjpg/backend_hukum)** | RAG API untuk konsultasi hukum ketenagakerjaan Indonesia (UU No. 13 Tahun 2003). | Python | [Repo](https://github.com/hayyanjpg/backend_hukum) · ⭐ 1 |
 | **[reconciliation-pipeline](https://github.com/hayyanjpg/reconciliation-pipeline)** | Multichannel reconciliation pipeline project. | Python | [Repo](https://github.com/hayyanjpg/reconciliation-pipeline) |
@@ -57,7 +57,7 @@ MODE      : Build → test → ship → learn → repeat
 <summary><b>[ OPEN MAP ] 🤖 AI, ML & Data</b></summary>
 <br/>
 
-- [**bogana-ai-erp-system**](https://github.com/hayyanjpg/bogana-ai-erp-system) — ERP internal F&B B2B: NLP order parser, PostgreSQL, Redis, FastAPI, dan dashboard PHP. *(PHP, ⭐ 1, [Live](https://bogana-ai-erp-system.vercel.app))*
+- [**bogana-ai-erp-system**](https://github.com/hayyanjpg/bogana-ai-erp-system) — ERP internal F&B B2B: NLP order parser, PostgreSQL, Redis, FastAPI, dan dashboard PHP. *(PHP, ⭐ 1, [Live](https://bogana-ai-erp-system-efli.vercel.app/?page=dashboard))*
 - [**backend_hukum**](https://github.com/hayyanjpg/backend_hukum) — RAG API for Indonesian Labor Law (UU No. 13 Tahun 2003). *(Python, ⭐ 1)*
 - [**reconciliation-pipeline**](https://github.com/hayyanjpg/reconciliation-pipeline) — Multichannel reconciliation pipeline. *(Python)*
 - [**phisingdetection_v5**](https://github.com/hayyanjpg/phisingdetection_v5) — Phishing detection project (v5). *(Python, [Live](https://phisingdetection-v5.vercel.app))*
@@ -163,7 +163,7 @@ TOPICS    : docker · erp · fastapi · forecasting · nlp · php · postgresql 
 ```text
 > GitHub  : https://github.com/hayyanjpg
 > Base    : Central Java, Indonesia
-> Status  : Open to explore, build, and collaborate
+> Status  : Open to AI Engineer / Full-Stack roles (entry-level, graduate program) — remote or relocate
 ```
 
 <div align="center">
